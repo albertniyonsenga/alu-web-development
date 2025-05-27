@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://www.figma.com/proto/eemeftdcCV4VDbDd2vMOIC/Homepage--Copy-?node-id=0-1&t=gNEtezdca8ym7kz2-1" target="_blank"rel="noopener noreferrer">
-<img src="image.png" alt="Figma design"> </a>
+<img src="./images/image.png" alt="Figma design"> </a>
 <br>
 <h1> Homepage Layout - Figma Prototype </h1>
 </div>
@@ -11,7 +11,7 @@ This Figma prototype showcases the homepage layout for our digital platform. It 
 
 # Key Sections
 
-<img src="work.png" alt="Figma design">
+<img src="./images/work.png" alt="Figma design">
 
 - `Hero Section`: Bold welcome message and call-to-action button.
 
