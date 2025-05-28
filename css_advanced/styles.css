@@ -179,7 +179,7 @@ blockquote {
 }
 
 blockquote::before {
-  content: """;
+  content: "";
   font-size: 5rem;
   position: absolute;
   top: -40px;
@@ -324,7 +324,7 @@ main > section:nth-child(4) > div > div::before {
   margin: 0 auto 20px;
   background: var(--secondary-color);
   border-radius: 50%;
-  background-image: url(images/logo.png);
+  background-image: url(images/hihi.png);
   background-size: 50%;
   background-repeat: no-repeat;
   background-position: center;
@@ -406,7 +406,7 @@ footer {
 
 footer > div {
   max-width: 1200px;
-  margin: 0 auto;
+  margin: 0 0;
 }
 
 footer > div > div:first-child {
@@ -429,7 +429,7 @@ footer > div > div:first-child > div {
 footer a img {
   width: 25px;
   height: 25px;
-  margin: 0;
+  margin-right: 0;
   filter: invert(1);
   transition: transform 0.3s ease;
 }
